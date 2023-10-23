@@ -11,3 +11,5 @@ If we don’t see any error during training, we have successfully created the mo
 
 python chatgui.py
 The program will open up a GUI window within a few seconds and you interact with your chatbot now!
+# Working demo
+https://youtu.be/9T5YTVbOgNs
